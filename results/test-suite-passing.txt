@@ -1,0 +1,13 @@
+test_baseline_mode_exposes_only_labeled_mock_context_for_measurement (test_hugo_watchdog.HugoWatchdogTests.test_baseline_mode_exposes_only_labeled_mock_context_for_measurement) ... ok
+test_hardened_mode_refuses_mock_sensitive_data_request (test_hugo_watchdog.HugoWatchdogTests.test_hardened_mode_refuses_mock_sensitive_data_request) ... ok
+test_hardened_mode_refuses_simulated_instruction_override (test_hugo_watchdog.HugoWatchdogTests.test_hardened_mode_refuses_simulated_instruction_override) ... ok
+test_normal_prompt_gets_safe_watchdog_response (test_hugo_watchdog.HugoWatchdogTests.test_normal_prompt_gets_safe_watchdog_response) ... ok
+test_server_binds_to_loopback_by_default (test_local_demo.LocalDemoServerTests.test_server_binds_to_loopback_by_default) ... ok
+test_baseline_demo_records_controlled_mock_failures (test_redrabbit_lab.RedRabbitLabTests.test_baseline_demo_records_controlled_mock_failures) ... ok
+test_demo_writes_real_jsonl_events_and_result_document (test_redrabbit_lab.RedRabbitLabTests.test_demo_writes_real_jsonl_events_and_result_document) ... ok
+test_hardened_demo_refuses_every_fixed_safe_test_without_protected_values (test_redrabbit_lab.RedRabbitLabTests.test_hardened_demo_refuses_every_fixed_safe_test_without_protected_values) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.078s
+
+OK
