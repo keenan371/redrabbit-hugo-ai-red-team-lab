@@ -1,0 +1,1 @@
+{"category": "prompt_injection", "component": "hugo_security_watchdog", "decision": "refuse_and_log", "mode": "hardened", "prompt_length": 63, "prompt_sha256": "b4259d19fd0957e59558ee7f5c3fa56736ed3e285edcf074882efb47dc6e6bc9", "timestamp_utc": "2026-09-02T23:28:42.074308+00:00"}
